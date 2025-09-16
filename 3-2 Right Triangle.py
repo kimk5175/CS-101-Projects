@@ -1,17 +1,7 @@
 """
 Program: right.py
-Author: Kalani Kim
+Author: Kim
 
-Calculate total weekly pay for an employee.
-
-1. The inputs are
-       hourly wage 
-       total regular hours
-       total overtime hours
-2. Computations:
-       total pay with hours and overtime
-3. The outputs are
-       the total weekly pay
 """
 
 a = int(input("Enter the first side: "))
@@ -28,3 +18,4 @@ if square_a + square_b == square_c or \
  print("The triangle is a right triangle.")
 else:
  print("The triangle is not a right triangle.")
+
