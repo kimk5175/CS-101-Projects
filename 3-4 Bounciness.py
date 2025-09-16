@@ -1,8 +1,6 @@
 """
 Program: bouncy.py
-Author: Kalani Kim
-
-Calculate total weekly pay for an employee.
+Author: Kim
 
 1. The inputs are
        height
@@ -24,3 +22,4 @@ for eachPass in range(bounces):
     height *= bounciness
     distance += height
     print("Total distance traveled is: ", distance, "units.")
+
