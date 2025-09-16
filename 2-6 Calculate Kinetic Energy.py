@@ -1,6 +1,6 @@
 """
 Program: momentum.py
-Author: Kalani Kim
+Author: Kim
 
 Compute an object's momentum.
 
@@ -20,3 +20,4 @@ momentum = mass * velocity
 KE = 0.5 * mass * velocity**2
 print("The momentum of the object is", momentum, "kg*m/s.")
 print("The kinetic energy is", KE, "J.")
+
