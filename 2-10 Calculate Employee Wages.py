@@ -1,6 +1,6 @@
 """
 Program: employeepay.py
-Author: Kalani Kim
+Author: Kim
 
 Calculate total weekly pay for an employee.
 
@@ -22,3 +22,4 @@ total_overtime_hours = int(input("Enter the total overtime hours: "))
 total_pay = (hourly_wage * total_regular_hours) + (total_overtime_hours * hourly_wage * 1.5)
 
 print("The employees total weekly pay is: $", total_pay, ".")
+
