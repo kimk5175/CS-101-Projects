@@ -1,6 +1,6 @@
 """
 Program: equilateral.py
-Author: Kalani Kim
+Author: Kim
 
 Indicate whether or not a triangle is an equilateral triangle.
 
@@ -19,3 +19,4 @@ if(a == b and b == c):
  print("The triangle is equilateral.")
 else:
  print("The triangle is not equilateral.")
+
