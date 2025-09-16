@@ -1,6 +1,6 @@
 """
 Program: momentum.py
-Author: Kalani Kim
+Author: Kim
 
 Compute an object's momentum.
 
@@ -16,3 +16,4 @@ mass = float(input("Enter the object's mass (in kilograms): "))
 velocity = float(input("Enter the object's velocity (in meters per second): "))
 momentum = mass * velocity
 print("The momentum of the object is", momentum, "kg*m/s.")
+
