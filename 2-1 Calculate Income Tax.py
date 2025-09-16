@@ -1,6 +1,6 @@
 """
 Program: taxform.py
-Author: Ken Lambert
+Author: Kim
 
 Compute a person's income tax.
 
@@ -35,3 +35,4 @@ incomeTax = taxableIncome * TAX_RATE
          
 # Display the income tax
 print("The income tax is $" + str(round(incomeTax, 2)))
+
